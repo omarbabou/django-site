@@ -16,6 +16,7 @@ h2,
 h3 {
   font-family: 'Roboto Slab', sans-serif;
   color: #222224;
+  bottom: 0;
 }
 
 button,
